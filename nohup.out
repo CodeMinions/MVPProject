@@ -1,0 +1,50 @@
+[12424:12424:0111/115206.425794:ERROR:gpu_process_transport_factory.cc(980)] Lost UI shared context.
+[12424:12440:0111/115207.929692:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[12424:12424:0111/115215.944854:ERROR:input_method_base.cc(146)] Not implemented reached in virtual ui::InputMethodKeyboardController *ui::InputMethodBase::GetInputMethodKeyboardController()Using InputMethodKeyboardControllerStub
+bash: 无法设定终端进程组(-1): 无效的参数
+bash: 此 shell 中无任务控制
+[12424:12424:0111/120322.073677:ERROR:http_bridge.cc(126)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+[19036:19036:0111/125636.472308:ERROR:gpu_process_transport_factory.cc(980)] Lost UI shared context.
+[7:14:0111/125636.680755:ERROR:command_buffer_proxy_impl.cc(119)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[19036:19052:0111/125636.869298:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[19036:19036:0111/125802.639631:ERROR:input_method_base.cc(146)] Not implemented reached in virtual ui::InputMethodKeyboardController *ui::InputMethodBase::GetInputMethodKeyboardController()Using InputMethodKeyboardControllerStub
+[19036:19052:0111/125943.705034:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[19036:19052:0111/125955.828028:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[19036:19052:0111/130427.241480:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[19036:19052:0111/130427.430140:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19036:19052:0111/130428.200402:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[19036:19036:0111/130851.655783:ERROR:textfield.cc(1767)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+[19036:19036:0111/130853.135882:ERROR:prefix_selector.cc(163)] Not implemented reached in virtual bool views::PrefixSelector::ShouldDoLearning()
+[19036:19052:0111/130916.740318:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[19036:19052:0111/130916.849591:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[19036:19052:0111/130917.788901:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[19036:19180:0111/130938.245876:ERROR:get_updates_processor.cc(242)] PostClientToServerMessage() failed during GetUpdates
+[19036:19036:0111/130938.247568:ERROR:http_bridge.cc(126)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+[24445:24445:0111/132202.370765:ERROR:gpu_process_transport_factory.cc(980)] Lost UI shared context.
+[7:14:0111/132202.418348:ERROR:command_buffer_proxy_impl.cc(100)] ContextResult::kFatalFailure: Shared memory region is not valid
+[24445:24461:0111/132202.770128:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[24445:24445:0111/132210.618099:ERROR:input_method_base.cc(146)] Not implemented reached in virtual ui::InputMethodKeyboardController *ui::InputMethodBase::GetInputMethodKeyboardController()Using InputMethodKeyboardControllerStub
+[24445:24461:0111/132343.958229:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[24445:24461:0111/132344.302792:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24445:24461:0111/132345.791830:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+bash: 无法设定终端进程组(-1): 无效的参数
+bash: 此 shell 中无任务控制
+[24445:24461:0111/132830.853554:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[24445:24461:0111/132830.977829:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24445:24461:0111/132833.155049:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[24445:24461:0111/133316.096010:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[24445:24461:0111/133316.210076:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -101
+[24445:24461:0111/133320.409083:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[24445:24461:0111/133337.280365:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -130
+[24445:24461:0111/133400.028438:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[24445:24461:0111/134033.163838:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[24445:24461:0111/134035.772302:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[24445:24461:0111/134521.755711:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[24445:24461:0111/134522.189419:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[24445:24461:0111/140044.857329:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[24445:24461:0111/140045.389294:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -111
+[24445:24461:0111/140342.894616:ERROR:connection_factory_impl.cc(400)] Failed to connect to MCS endpoint with error -130
+Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: worker.js:61:22
+Remote event names: destroyed, crashed
+[24445:24445:0111/234755.479961:ERROR:http_bridge.cc(126)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
